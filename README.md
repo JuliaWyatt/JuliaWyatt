@@ -16,7 +16,7 @@ My journey as a cybersecurity analyst has been shaped by hands-on projects focus
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/JuliaWyatt/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -54,7 +54,7 @@ My journey as a cybersecurity analyst has been shaped by hands-on projects focus
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/JuliaWyatt/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
 <!--
 **JuliaWyatt/JuliaWyatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
